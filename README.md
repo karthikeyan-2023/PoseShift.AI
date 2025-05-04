@@ -1,7 +1,11 @@
 🧠 PoseShift.AI
+
+
 PoseShift.AI is a hybrid AI framework that combines pose generation, convolutional neural networks (CNNs), and large language models (LLMs) to generate, interpret, and analyze human poses with technical precision. From synthesizing realistic motion data to providing descriptive feedback via natural language, PoseShift.AI is designed for research and real-world applications in motion intelligence.
 
 🚀 Key Features
+
+
 🤖 Pose Generation using GANs, VAEs, and diffusion-based models
 
 🧍‍♀️ Realistic 2D/3D Pose Synthesis and augmentation
@@ -13,6 +17,8 @@ PoseShift.AI is a hybrid AI framework that combines pose generation, convolution
 🛠️ Modular architecture for fast prototyping and testing
 
 🔧 Installation
+
+
 bash
 Copy
 Edit
