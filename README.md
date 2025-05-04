@@ -29,12 +29,6 @@ Here's a **refined README** that exactly matches your current setup — simple, 
 
 ---
 
-# 🧠 PoseShift.AI
-
-**PoseShift.AI** is a hybrid AI system that combines pose generation models with large language models (LLMs) to create, interpret, and describe human poses with precision. The application generates realistic human poses and provides technical feedback using AI — all from a simple interface.
-
----
-
 ## 🚀 Key Features
 
 * 🤖 Pose generation using advanced ML models (GANs, VAEs, diffusion)
@@ -86,13 +80,6 @@ numpy
 ```
 
 (You can add others as needed depending on what models you're using.)
-
----
-
-## 📬 Contact
-
-* **GitHub**: [yourusername](https://github.com/yourusername)
-* **Email**: [your.email@domain.com](mailto:your.email@domain.com)
 
 ---
 
